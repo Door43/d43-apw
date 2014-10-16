@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apw:home|Door43 (apw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apw|d43-apw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apw/archive/master.zip|d43-apw.zip]]
+
+**Recent Changes**
+{{changes>ns = apw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apw|Ethnologue data]]
+
